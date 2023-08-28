@@ -1,0 +1,2 @@
+En el siguiente link se encuentra el circuito y la programación del ESP32 con Funciones:
+https://wokwi.com/projects/374306763044648961

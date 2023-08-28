@@ -1,0 +1,2 @@
+En el siguiente link se encuentra el circuito y el codigo de programación para ESP32 usando un solo led:
+https://wokwi.com/projects/374303863697198081
